@@ -1,8 +1,6 @@
-# ManiBansal786.github.io
-Personal Website
 ## Portfolio
 
-I am a frontend engineer with an experience of over 5 years. I have hands on experienceworking with web frameworks and technologies. I have extensively worked on react and typescript for 4 years.
+I am a Senior Software Engineer with an experience of over 8+ years. I have hands on experienceworking with web frameworks and technologies. I have extensively worked on react and typescript for 4 years.
 
 ---
 
@@ -20,18 +18,18 @@ I am a frontend engineer with an experience of over 5 years. I have hands on exp
 
 ## Experience
 
-### **SENIOR FRONTEND DEVELOPER**
-### MIRO
+### **SENIOR SOFTWARE ENGINEER**
+### LIBERTY MUTUAL INSURANCE
 
 Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
 
-### **FRONTEND DEVELOPER**
-### Booking.com
+### **Solution Specialist**
+### Deloitte USA
 
 Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
 
-### **SOFTWARE DEVELOPER**
-### NAGARRO PVT, LTD
+### **Professional SOFTWARE ENGINEER**
+### DXC Technology
 
 Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
 
@@ -39,9 +37,9 @@ Worked on java , hybris framework and promotion engine. Created registration pro
 
 ## Education
 
-### **GURU NANAK DEV UNIVERSITY**
-### BTech Computer Science (2012- 2016)
-GPA 8.75
+### **PUNJABI UNIVERSITY, PATIALA**
+### BTech Electronics and Communication Engineering (2010- 2014)
+GPA 7.6
 
 ---
 
