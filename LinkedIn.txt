@@ -1,0 +1,57 @@
+## Old
+Overall 8+years of professional experience in all stages of SDLC (Software Development Life Cycle) involved in gathering user requirements, analysis, design, development, maintenance, coding, implementation, debugging, testing, deployment and documentation across diverse work environments.
+
+Good exposure to each phase of Software Development Life Cycle (SDLC), Agile.
+
+A keen analyst and team player with thorough understanding of client requirements through direct client interaction, translating them into technical specifications and driving their execution.
+
+• Hands on technology experience of designing and developing software applications with Microsoft .NET Framework 4.0/3.5/3.0/2.0 using C#, ASP.NET and ADO.NET, ASP.NET MVC, Dot Net Core
+• Proficiency in Visual Studio 2005/2008/2010/2013/2015/2017.
+• Good Experience in OOPS (Object Oriented Programming Structure) and Agile methodology.
+• Sound knowledge of 3-tier and N-tier layered architecture.
+• Expertise in database MS-SQL Server 2017/2016/2014/2012/2008/2005 and in creating database objects like Stored Procedures, Constraints, Views, Functions, Cursors, Triggers, Database design and in writing complex queries in SQL.
+• Experience in working with .NET features like Inheritance, Polymorphism, Interfaces, Data abstraction, Events & Delegates, Generics & Collections, Exception Handling in.NET applications.
+• Hands-on experience with Azure DevOps Services like, Repos, Pipelines, Board, Artifacts etc.
+• Excellent exposure to Agile/Scrum methodology, sprint planning, release planning, work prioritization, retrospectives, Kanban board etc.
+• Capable of managing and working on multiple projects simultaneously.
+• Experience with managing offshore team.
+
+Strengths
+
+• Providing technical solutions based on .Net platform.
+• Software development and design, Writing and reviewing of technical design
+• Customer engagement
+• Team cultivation and mentoring
+• Experience and knowledge of Insurance domains
+• Proficient in .Net technologies
+• Working in Agile methodology using CI/CD
+• Excellent Analytical & Communication skill
+• Ability to adapt new technologies and its role in improving the software solutions 
+
+✉️ manibansal2040@gmail.com
+📞 +61(484)-556-539
+
+-------------
+##New
+
+
+• Overall 8+years of professional experience in all stages of SDLC (Software Development Life Cycle) involved in gathering user requirements, analysis, 
+  design, development, maintenance, coding, implementation, debugging, testing, deployment and documentation across diverse work environments.
+• Good exposure to each phase of Software Development Life Cycle (SDLC), Agile.
+• A keen analyst and team player with thorough understanding of client requirements through direct client interaction, translating them into 
+  technical specifications and driving their execution.
+• Excellent exposure to Agile/Scrum methodology, sprint planning, release planning, work prioritization, retrospectives, Kanban board etc.
+• Capable of managing and working on multiple projects simultaneously.
+• Daily interaction with Business Partners, Product owners, business analysts, Brokers, Underwriters and providing technical support, troubleshooting and fixing the priority issues and major incidents.
+• Good experience with managing offshore team, Functional and Technical cross team handling while working for Technical analysis, Code reviews, mentoring etc.
+
+Worked on following specialized Tools and Technologies:
+• Main Skills – Object oriented Programming (OOP), .NET, .NET Core, ASP.NET, ADO.NET, MVC, React, TypeScript, Web Services, Web API, Rest API, WCF, SOA, Design Patterns, LINQ, 
+• Databases - MS SQL Server, T-SQL, PostgreSQL
+• Programming Languages - C#, HTML, CSS, XML, jQuery, JavaScript, PowerShell
+• Cloud Skills – Amazon Elastic Compute Cloud, Amazon S3,Amazon VPC, Amazon Auto-scaling, Amazon Lambda 
+• Azure DevOps – Kanban Board, Repos, Pipelines, CI/CD (CICD),Artifacts etc
+• ORM – Entity Framework, EF Core
+• Tools - JIRA, TFS (Team Foundation Server), Code Collaborator, Coded UI, OPUS, Postman, Fiddler, Confluence (wiki), Lucid 
+• IDEs - Visual Studio 2019, VSCode, SQL Server Management Studio
+• Source Control (Repository) – SVN, TFVC, TFS, GitHub
